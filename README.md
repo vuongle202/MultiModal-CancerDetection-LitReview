@@ -10,7 +10,7 @@ Author: Julia Kurnaeva (@Yameteshka), 2025
 This repository contains a literature review on how multi-modal data integration (e.g. imaging, genomics, clinical records) impacts the performance of AI/ML models in detecting cancers like lung, breast, pancreatic, and osteosarcoma.
 
 <p align="center">
-  <a href="./Kurnaeva_MultiModal_CancerDetection.pdf" download>
+  <a href="./Julia_Kurnaeva_LR_MultiModal_CancerDetection.pdf" download>
     <img src="https://img.shields.io/badge/⬇️ Download PDF-blueviolet?style=for-the-badge" alt="Download PDF"/>
   </a>
 </p>
