@@ -11,7 +11,7 @@ This repository contains a literature review on how multi-modal data integration
 
 <p align="center">
   <a href="https://github.com/Yameteshka/MultiModal-CancerDetection-LitReview/raw/main/Julia_Kurnaeva_LR_MultiModal_CancerDetection.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View PDF in Browser-007ACC?style=for-the-badge" alt="View PDF"/>
+    <img src="https://img.shields.io/badge/Download PDF-blueviolet?style=for-the-badge&logo=adobeacrobatreader" alt="View PDF" style="height: 40px; padding: 6px;" />
   </a>
 </p>
 
@@ -56,6 +56,15 @@ This project is shared for academic and non-commercial purposes only.
 Do not reuse or distribute without crediting the original author: Julia Kurnaeva (@Yameteshka).  
 For commercial or derivative use, please contact the author.
 ```
+
+## ⭐ Rate this Article
+
+<p align="center">
+  <a href="https://github.com/Yameteshka/MultiModal-CancerDetection-LitReview/issues/1" target="_blank">
+    <img src="https://img.shields.io/badge/Leave a Rating-⭐️⭐️⭐️⭐️⭐️-ff69b4?style=for-the-badge" />
+  </a>
+</p>
+
 
 ---
 
