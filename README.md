@@ -54,7 +54,7 @@ Traditional AI-based cancer detection models often rely on a **single data modal
 ```
 This project is shared for academic and non-commercial purposes only.  
 Do not reuse or distribute without crediting the original author: Julia Kurnaeva (@Yameteshka).  
-For commercial or derivative use, please contact the author.
+For commercial or derivative use, please contact the author via Telegram: @emzzes.
 ```
 
 ## ⭐ Rate this Article
